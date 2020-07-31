@@ -20,3 +20,4 @@ En este repositorio encontrarán TODOS los archivos que he creado para la serie 
 - 21 [Usar el teclado en una GUI](https://github.com/RolaValdez/Todo-sobre-Matlab-Guide/blob/master/UsarTeclado.rar)
 - 22 [Crear y personalizar punteros del mouse](https://github.com/RolaValdez/Todo-sobre-Matlab-Guide/blob/master/Personalizar%20Puntero.rar)
 - 23 [Usar el scroll del mouse en una GUI](https://github.com/RolaValdez/Todo-sobre-Matlab-Guide/blob/master/UsarScroll.rar)
+- 24 [Compartir datos entre interfaces](https://github.com/RolaValdez/Todo-sobre-Matlab-Guide/blob/master/Compartir%20datos%20entre%20GUIs.rar)
