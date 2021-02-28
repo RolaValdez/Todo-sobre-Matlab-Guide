@@ -28,3 +28,4 @@ En este repositorio encontrarán TODOS los archivos que he creado para la serie 
 - 26, 27 y 28 [Barras de menús, menús de contexto y barra de herramientas](https://github.com/RolaValdez/Todo-sobre-Matlab-Guide/blob/master/menus_y_barraherramientas.rar)
 - 29 [Enlace con Excel](https://github.com/RolaValdez/Todo-sobre-Matlab-Guide/blob/master/MatlabExcel.rar)
 - 30 Convertir GUI a un archivo .exe (descarga las 7 partes del archivo PianoExe)
+- 31 [GUIDE + Simulink](https://github.com/RolaValdez/Todo-sobre-Matlab-Guide/blob/master/Circuito.zip)
