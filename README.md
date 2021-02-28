@@ -1,8 +1,11 @@
 # Todo-sobre-Matlab-Guide
 En este repositorio encontrarán TODOS los archivos que he creado para la serie de Todo sobre Matlab Guide! Abajo encontrarás un enlace directo a un archivo comprimido que contiene los archivos .fig y .m, así como cualquier otro archivo adicional que necesitas para cada interfaz en específico. Si te quedan dudas al respecto, puedes ver la lista de reproducción de la serie "Todo sobre Matlab Guide" en este enlace: https://www.youtube.com/playlist?list=PLSrGuI5Xqm-42rhAO2CU1lxO_24KIvl3u
 
-# !Curso en línea en Udemy!
-¿Quieres llevar la experiencia de programar GUIs a un nuevo nivel? Este curso de 12 horas sobre programar GUIs en Matlab GUIDE es una versión perfeccionada y más detallada de toda la serie del canal de Youtube, tomando en cuenta sus retroalimentaciones, sugerencias, dudas y nuevos trucos que aprendí en el camino, de modo que este curso es una experiencia intensa y retadora que te hará ser un dios en la programación. Visita el curso con este link: https://www.udemy.com/course/aprende-a-programar-guis-en-matlab-guide-como-un-dios/?referralCode=BED79AB516E709B36686
+# ✍✍ !Curso en línea en Udemy! ✍✍ 
+¿Quieres llevar la experiencia de programar GUIs a un nuevo nivel? Este curso de 14 horas sobre programar GUIs en Matlab GUIDE es una versión perfeccionada y más detallada de toda la serie del canal de Youtube, tomando en cuenta sus retroalimentaciones, sugerencias, dudas y nuevos trucos que aprendí en el camino, de modo que este curso es una experiencia intensa y retadora que te hará ser un dios en la programación. 
+
+¿Listo para aprender a ser un DIOS de la programación en Matlab? 
+Visita este link: ▶️ http://bit.ly/3kf9h6f 
 
 ## Archivos de la serie
 
